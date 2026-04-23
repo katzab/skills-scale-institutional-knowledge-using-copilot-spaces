@@ -32,6 +32,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+- Apply the [Dependency & Escalation Checklist](./octoacme-process-templates.md#dependency--escalation-checklist) and capture trade-off decisions in the decision log template
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo

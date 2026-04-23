@@ -26,6 +26,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- RACI Matrix, dependency/escalation checklist, and release readiness checklist (see [Process Templates](./octoacme-process-templates.md))
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)

@@ -34,6 +34,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Use the [Dependency & Escalation Checklist](./octoacme-process-templates.md#dependency--escalation-checklist) to define triggers, owners, and fallback paths
 
 ## Planning Checklist
 - [ ] Project kickoff held
@@ -41,3 +42,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] RACI matrix drafted with named owners (use [RACI Matrix Template](./octoacme-process-templates.md#lightweight-raci-matrix-template))

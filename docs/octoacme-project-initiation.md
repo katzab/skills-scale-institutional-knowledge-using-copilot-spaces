@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Initial RACI draft and first decision log entry using [Process Templates](./octoacme-process-templates.md)
 
 ## Project One-pager Template
 - Project name:
