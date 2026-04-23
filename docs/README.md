@@ -18,5 +18,6 @@ Quality assurance is built into daily delivery and release discipline. OctoAcme 
 - [Release and Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Process Templates and Accountability Checklists](./octoacme-process-templates.md)
 
 Have an update or improvement to this process? Please open an issue or submit a pull request so the docs stay current.

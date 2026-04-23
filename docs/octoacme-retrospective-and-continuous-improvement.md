@@ -20,6 +20,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- For ownership changes, attach a handoff note from the [Handoff & Decision Log Template](./octoacme-process-templates.md#handoff--decision-log-template)
 
 ## Example Action Item Template
 - Title:

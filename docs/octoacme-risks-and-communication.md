@@ -40,3 +40,5 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- Use the [Dependency & Escalation Checklist](./octoacme-process-templates.md#dependency--escalation-checklist) to standardize escalation triggers and ownership
+- Record major escalation or scope decisions with the [Decision Log Template](./octoacme-process-templates.md#handoff--decision-log-template)
